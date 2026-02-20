@@ -101,7 +101,7 @@ Each project in the OpenImpactAI ecosystem has its own specialized contribution 
 
 Examples include:
 - **AI-Education-Projects**: MathemAI, LinguaSign, LexoRead, CodeMentorAI, and more
-- **EduSynapseAI**: Our multi-agent learning framework
+- **EduSynapseOS**: The complete AI education operating system
 - **AI-Healthcare-Projects**, **AI-Environment-Projects**, and **AI-Accessibility-Projects**
 
 For each project, please refer to the project-specific CONTRIBUTING.md file in its repository for detailed instructions tailored to that project's unique requirements and focus area.

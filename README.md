@@ -30,16 +30,16 @@ Current projects include:
 - **📌 [ScientificQuerySolver](https://github.com/openimpactai/ScientificQuerySolver)** – Answering scientific questions with AI and evidence-based reasoning
 - **📌 [EquationExplainerAI](https://github.com/openimpactai/EquationExplainerAI)** – Step-by-step mathematical problem solving with detailed explanations
 
-### 🤖 2. EduSynapseAI – Multi-Agent Learning Framework
+### 🤖 2. EduSynapseOS – The Complete AI Education Operating System
 
-📌 **[EduSynapseAI](https://github.com/openimpactai/EduSynapseAI)** is an advanced **multi-agent AI learning framework** developed by [GDLabs.io](https://gdlabs.io). This framework focuses on addressing educational inequalities and student motivation challenges by integrating AI and blockchain technologies. EduSynapseAI will be implemented by [EDUAgentic.ai](https://eduagentic.ai) to create more equitable and engaging learning environments.
+📌 **[EduSynapseOS](https://github.com/openimpactai/EduSynapseOS)** is a **white-label infrastructure for building AI-powered tutoring platforms** developed by [Global Digital Labs](https://gdlabs.io). Each tenant gets isolated databases, customizable curriculum, and enterprise-grade privacy controls. EduSynapseOS is deployed at [edu.synapse-os.com](https://edu.synapse-os.com).
 
 Key features include:
 - Adaptive AI tutors that analyze student weaknesses and adjust learning materials
 - Multi-agent interaction allowing real-time feedback, evaluation, and optimization
 - AI-powered knowledge graphs that track progress and suggest personalized learning paths
 
-📂 [**Learn more about EduSynapseAI →**](https://github.com/openimpactai/EduSynapseAI)
+📂 [**Learn more about EduSynapseOS →**](https://github.com/openimpactai/EduSynapseOS)
 
 ### 🏥 3. AI-Healthcare-Projects (AI for Healthcare)
 
